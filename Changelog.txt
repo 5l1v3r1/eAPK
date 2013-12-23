@@ -1,2 +1,3 @@
 v1.6
 - Update the Zipalign.exe
+- Update the aapt.exe

@@ -3,6 +3,7 @@ v1.7
 - Add jli.dll
 - Add tools.jar
 - Add jarsigner.bat
+- Bug fixes
 
 v1.6
 - Update the Zipalign.exe

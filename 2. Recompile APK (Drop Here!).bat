@@ -1,2 +1,2 @@
 @echo off
-apktool b -f -d %1
+apktool b -f -d "%~f1"

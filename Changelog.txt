@@ -1,3 +1,9 @@
+v1.7
+- Add keytool.exe
+- Add jli.dll
+- Add tools.jar
+- Add jarsigner.bat
+
 v1.6
 - Update the Zipalign.exe
 - Update the aapt.exe

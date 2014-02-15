@@ -1,2 +1,2 @@
 @echo off
-apktool d %1
+apktool d "%~f1"
